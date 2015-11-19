@@ -1,0 +1,75 @@
+body {
+	background-color: #8F715C;
+	margin: 0;
+}
+
+h1 {
+	font-family: Futura;
+	text-align: center;
+	font-style: italic;
+	font-size: 60px;
+	color: #DF593C;
+	margin-bottom: 0;
+	margin-top: 0;
+	height: 71px;
+}
+
+h2 {
+	font-family: Helvetica;
+	text-align: center;
+	color: #372F4F;
+}
+
+nav {
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+	color: #372F4F;
+}
+
+a:visited {
+	color: #401C37;
+}
+
+a:hover {
+	color: #81B093;
+}
+
+
+
+ul {
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	display: inline;
+	list-style: none;
+	font-family: Futura;
+	margin: 0;
+	padding: 0;
+	margin-left: 32px;
+	margin-right: 32px;
+
+}
+
+a {
+	padding: 0;
+}
+
+.pic {
+	text-align: center;
+}
+
+img {
+	border: 30px;
+	border-radius: 20%;
+}
+
+h2 {
+	margin-top: 18px;
+	margin-bottom: 14px;
+	padding: 0;
+}
