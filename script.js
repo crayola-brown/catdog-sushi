@@ -34,6 +34,7 @@ app.config(function($routeProvider, $locationProvider){
 
 		.otherwise({ redirectTo: '/' });
 
+//part of what removes the hash from the code/url
 	$locationProvider.html5Mode(true);
 });
 
